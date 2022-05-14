@@ -1,4 +1,2 @@
-# Code-Collection-
-This is a collection of codes related to "数据结构"。
-i'm reading book"数据结构（李春葆）","操作系统","计算机网络" to prepare for pku.
-i'll share the necessary things here.
+# Code_for_PAT
+这个合集主要是针对浙大PAT考试的“甲级”和“乙级”题目，将所有通过了的代码汇总在这里。
